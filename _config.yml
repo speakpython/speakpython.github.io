@@ -26,7 +26,7 @@ post_level:
 
 algolia:
   application_id: 'D01TO3NHQH'
-  index_name:     'speak-python-blog'
+  index_name:     'speakpython_github_io_d01to3nhqh_pages'
   search_only_api_key: '75db3c06331f4c472e27c558ce9b0343'
 
 external_link:
